@@ -24,7 +24,7 @@ Finally the map `view` is [overridden](index.html#L48) so that your style is use
 
 To edit the style, simply edit the files in `style/` directory - see 
 [styling reference](//github.com/melowntech/vts-browser-js/wiki/VTS-Geodata-Format#geo-layer-styles-structure)
-for available directives or browse [Live JSFiddle examples](//github.com/melowntech/vts-browser-js/wiki/Examples#geodata---basic) dealing with geodata. Then make sure you picked the correct style in [index.html](index.html#L55).
+for available directives or browse [Live JSFiddle examples](//github.com/melowntech/vts-browser-js/wiki/Examples#geodata---basic) dealing with geodata. Then make sure you picked the correct style in [index.html](index.html#L55)..
 
 Aternatively, press Ctrl+Shift+D when browsing the map, then press Shift+E to open style-editting window. Pick correct style from dropdown menu, edit it and click update. When you are happy with your style, do not forget to copy some file so you do not lose in after reload.
 
